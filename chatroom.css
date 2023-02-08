@@ -8,11 +8,6 @@
   background-color: rgb(46,46,46);
 }
 
-.image {
-  width: 80px;
-  border-radius: 30px;
-}
-
 .contents {
   display: flex;
   flex-direction: column;
