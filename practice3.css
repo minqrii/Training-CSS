@@ -1,0 +1,18 @@
+  .container{
+    width: 600px;
+    height: 250px;
+    border: 1px solid #698269;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+  }
+  
+  .box {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 20px;
+    background-color: #698269;
+    
+  }
